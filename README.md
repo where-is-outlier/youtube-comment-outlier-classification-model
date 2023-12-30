@@ -1,5 +1,3 @@
-# youtube-comment-outlier-classification-model
-
 <h1 align="center"> TEAM 이상이 어딨니 </h1> <br>
 
 ## Table of Contents
